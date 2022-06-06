@@ -1,0 +1,20 @@
+{
+  "name": "nodemodulesmanager",
+  "version": "1.0.0",
+  "description": "fun nm manager",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kudray2/nodeModulesManager.git"
+  },
+  "author": "Sergey Kudryashov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kudray2/nodeModulesManager/issues"
+  },
+  "homepage": "https://github.com/Kudray2/nodeModulesManager#readme"
+}
